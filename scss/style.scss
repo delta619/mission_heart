@@ -654,6 +654,10 @@ h1, h2, h3, h4, h5,
 	}
 }
 
+.pointer{
+	cursor: pointer;
+}
+
 //ABOUT VIDEO
 .ftco-section-3{
 	padding: 8em 0;
@@ -665,7 +669,7 @@ h1, h2, h3, h4, h5,
 		right: 0;
 		bottom: 0;
 		content: '';
-		opacity: .9;
+		opacity: .3;
 		background: $primary;
 		
 	}
